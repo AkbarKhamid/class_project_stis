@@ -6,4 +6,6 @@ Tools used:
 - pandas
 - numpy
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AkbarKhamid/class_project_stis.git/master)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AkbarKhamid/class_project_stis.git/master) \
+It may take a while to build the image and launch
